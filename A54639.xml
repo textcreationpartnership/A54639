@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pair of spectacles for Mr. Observer, or, Remarks on the phanatical observations on my Lord Petre's letter to the king</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54639</idno>
+            <idno type="STC">Wing P195</idno>
+            <idno type="STC">ESTC R11097</idno>
+            <idno type="EEBO-CITATION">13790254</idno>
+            <idno type="OCLC">ocm 13790254</idno>
+            <idno type="VID">101828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 470:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pair of spectacles for Mr. Observer, or, Remarks on the phanatical observations on my Lord Petre's letter to the king</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Price,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publisher and date of publication from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Petre, William Petre, --  Baron, 1622-1684. --  Declaration of the Lord Petre upon his death.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101828:1" rendition="simple:additions"/>
+            <head>A Pair of SPECTACLES FOR Mr. OBSERVER; OR, REMARKS ON THE <hi>Phanatical Obſervations</hi> ON MY Lord Petre's LETTER To the KING.</head>
+            <p>THough the Reflecting upon the <hi>Errors of Popery</hi> be extreamly commendable, yet the amuſing of the World with <hi>Lyes,</hi> is not only mean and baſe, (harden<g ref="char:EOLhyphen"/>ing even the <hi>Papiſts</hi> themſelves;) but a thing alſo that has endanger'd both <hi>Church</hi> and <hi>State,</hi> as all <hi>Loyal</hi> men of the leaſt Capacity now plainly ſee, and acknowledge. 'Tis not the jingle of a few words, nor is it the empty noiſe of <hi>Religion,</hi> that can make an Intelligent and Awakn'd People fancy, <hi>That a</hi> Republican Obſerver <hi>dreads the De<g ref="char:EOLhyphen"/>poſing of Kings, or that a Regicide in temper fears the Stabbing of them.</hi> Theſe are <hi>Chymaera's, Phan<g ref="char:EOLhyphen"/>tomes,</hi> and <hi>Notions</hi> below the very reach of the Vulgar; nay the <hi>Mythology</hi> or true <hi>Engliſh</hi> of them is as manifeſt as the <hi>Sun</hi> it ſelf in its <hi>Meridian.</hi> Yet when I remember, that the Stories of <hi>Papal Diſpenſations</hi> to the Dying Members of that <hi>Com<g ref="char:EOLhyphen"/>munion</hi> were never more earneſtly and zealouſly inſiſted upon (by <hi>Tongue, Care,</hi> and the reſt of them) than when the King and all his known Friends were deſign'd for Slaughter, I cannot think it unbecoming a Faithful Subject to exa<g ref="char:EOLhyphen"/>mine a little this <hi>Authors Comment</hi> on the afore<g ref="char:EOLhyphen"/>ſaid <hi>Letter,</hi> and ſee whether he may not be juſtly ſuſpected of having the former <hi>Project</hi> in his <hi>Heart,</hi> ſince he has at firſt daſh the ſame <hi>Cry</hi> in his <hi>Mouth</hi> with the old <hi>Care</hi> of <hi>Religion</hi> in pretence, which has uſher'd in, and cloak'd alſo the moſt diſmal and blackeſt Villanies ever the Nation yet ſaw or heard of.</p>
+            <p>His wiſe <hi>Proem</hi> is a doubt, <hi>Whether the Letter be his Lordſhips;</hi> Becauſe he thinks forſooth, <hi>That it ought to have had the Atteſtation of the</hi> Lieute<g ref="char:EOLhyphen"/>nant, <hi>of the Reverend Doctor</hi> Hawkins, <hi>or ſome other good Proteſtant. 2dly.</hi> Becauſe 'twas <hi>Prin<g ref="char:EOLhyphen"/>ted by</hi> T. B. and not by <hi>His Majeſties Printers:</hi> And <hi>3dly.</hi> Becauſe 'tis <hi>Printed</hi> (as the Paper mentions) for one <hi>Mead,</hi> who is no known <hi>Bookſeller</hi> he ſays.</p>
+            <p>To theſe Reaſons I Anſwer, that the <hi>Lieutenant</hi> did not only bring it to the <hi>King,</hi> but his <hi>Lordſhip</hi> has to hundreds and hundreds of very <hi>Worthy Pro<g ref="char:EOLhyphen"/>teſtants</hi> (who during his Confinement came often to him) <hi>moſt ſolemnly declar'd his Innocence,</hi> toge<g ref="char:EOLhyphen"/>ther <hi>with a deteſtation of all <hi>Plots,</hi>
+               </hi> and <hi>all King<g ref="char:EOLhyphen"/>killing or Depoſing Doctrines whatſoever.</hi> Now as for <hi>T. B.</hi> whether he were one of the <hi>Aſſigns</hi> of <hi>Bill</hi> and <hi>Barker,</hi> or whether <hi>Mead</hi> be Free of the <hi>Com<g ref="char:EOLhyphen"/>pany,</hi> I know not; yet this I am ſure of, that the Argument is very ſilly and weak; and if I miſtake not, the reſt will be found in the ſame Mood and Figure<g ref="char:punc">▪</g> But before I proceed, I cannot (I con<g ref="char:EOLhyphen"/>feſs) but ſmile to ſee how Complemental and full of Ceremony the Spark is with the aforeſaid
+<pb n="2" facs="tcp:101828:2"/>Loyal and Sober <hi>Clergy-man,</hi> who, inſtead of ha<g ref="char:EOLhyphen"/>ving due <hi>Reſpect</hi> or <hi>Reverence</hi> pay'd him (when <hi>Fitz-Harris</hi>'s buſineſs was on the Anvil) was no<g ref="char:EOLhyphen"/>thing but <hi>Sir Reverenc'd,</hi> and Vilified by the whole <hi>Cabal;</hi> and the like they would again do, not on<g ref="char:EOLhyphen"/>ly to Him, but to the whole <hi>Hierarchy,</hi> were their Sails a Trip, or their Out-ragious Hands and Tongues unfetter'd.</p>
+            <p>Now for the <hi>Obſervations</hi> themſelves, the firſt is; <hi>That a</hi> Papiſt <hi>for all his Grimaces (and conſequently his Lordſhip, if he be one) never really pray'd for the King, it being abſolutely forbidden by a Synod at</hi> Dublin, <hi>as Father</hi> Walſh <hi>the</hi> Franciſcan <hi>has it</hi> (he ſays) <hi>in Print.</hi>
+            </p>
+            <p>The point I confeſs would ſeem very ſtrange, were not this an Age of Riddles; and certainly 'tis at leaſt <hi>Myſtery,</hi> and a kind of <hi>Riddle</hi> too, that <hi>Papiſts</hi> dare not <hi>Pray</hi> for the <hi>Welfare</hi> of their <hi>So<g ref="char:EOLhyphen"/>veraign,</hi> and yet dare <hi>Fight</hi> for it. They can Juggle it ſeems with <hi>His Majeſty</hi> in their <hi>Words,</hi> and remain yet real in their <hi>Actions,</hi> even to the hazard of their Lives and Fortunes. Nay the <hi>Engliſh Papiſts</hi> (for againſt them this ſhot is I ſuppoſe Levell'd) have often challeng'd (we find) all their Enemies in the Nation, <hi>To ſhow any one man of them (whether Gentle or Simple) that was ever Falſe or <g ref="char:V">Ʋ</g>nfaithful.</hi> But I wiſh for the ſake of all <hi>True Proteſtants</hi> (who will not I am ſure ſend the like defiance) that <hi>Pug's Deputy,</hi> I mean this new <hi>Couranteer,</hi> had kept the <hi>Witneſs</hi> con<g ref="char:EOLhyphen"/>ceal'd, his Name being I fear a little Scandalous; for the <hi>Papiſts</hi> here, have not only call'd him all along <hi>Macedo, Lyar,</hi> &amp;c. but the whole Town knows <hi>that he was in open War with his Order, and formally Excommunicated alſo for his goodneſs.</hi> Yet the matter upon ſecond thoughts may paſs; for a <hi>Witneſs</hi> is often the better, for a <hi>Blot</hi> in his Eſcutchion provided he be <hi>Advantagious</hi> to the <hi>Brethren</hi> and their <hi>Cauſe.</hi>
+            </p>
+            <p>In the next Paragraph this <hi>Munkyiſh Obſerver</hi> will have it ill Manners in the <hi>Writer</hi> of the ſaid <hi>Letter,</hi> for ſaying <hi>his Lordſhip has long lain under a falſe and injurious Calumny,</hi> ſeeing his Lordſhip was Impeach'd (he ſays) by the higheſt Court of Ju<g ref="char:EOLhyphen"/>dicature in the Kingdom; yet he will have it, that if the <hi>Letter</hi> be his <hi>Lordſhips</hi> own, <hi>'tis only the word of a dying Romaniſt for the concern of his Church,</hi> and that perchance <hi>He did it to gain Abſolution;</hi> or that there may be an <hi>Equivocation</hi> in the words.</p>
+            <p>As for his Lordſhips affronting the <hi>Parliament</hi> by proteſting thus his <hi>Innocence,</hi> I ſhall ſpeak a little to it by and by; deſiring the <hi>Reader</hi> to tell me firſt, <hi>If this be a Crime, what do the Saints then deſerve, who have Branded that very Houſe of Com<g ref="char:EOLhyphen"/>mons which Impeach'd his Lordſhip, with the Title of <hi>Penſioners,</hi> and a thouſand other Villanous Taunts and Nicknames?</hi> Now for the buſineſs of <hi>Diſpen<g ref="char:EOLhyphen"/>ſations</hi> here mention'd (for the altering of the Phraſe is only to ſhow his Elegance) 'twas too groſs, too Childiſh to ſtand long on its Legs; for who could imagine (when the hurry was once over, and all the <hi>Elephants</hi> and <hi>Camels</hi> ſwallow'd) that two or three <hi>Retailing Scriblers</hi> of this new <hi>Faction</hi> ſhould Monopolize to themſelves the whole <hi>Secret,</hi> when as <hi>no body elſe,</hi> no not the <hi>Converts</hi> from <hi>Popery</hi> ever heard of that Trick be<g ref="char:EOLhyphen"/>fore. Beſides, how ſtrangely odd muſt it appear to any <hi>thinking man,</hi> that his <hi>Holineſs</hi> ſhould be ſo liberal, when 'twas <hi>Cockpit</hi> lay that he would looſe by the Intrigue, and yet permit his <hi>Pupills from time to time to ſuffer in their Perſons and Eſtates for not going to Church, even to Prayers of his own ma<g ref="char:EOLhyphen"/>king,</hi> (<hi>if the word of a</hi> True Proteſtant <hi>were to be taken.</hi>) But the Impoſture and deſign is now diſ<g ref="char:EOLhyphen"/>cover'd; and we know the <hi>Credit</hi> of the <hi>Kings Evidence</hi> was to be mantain'd, to deſtroy both the <hi>King</hi> and <hi>Monarchy</hi> together. No wonder then that a man of <hi>Probity</hi> in his Actions, a man without <hi>Welt</hi> or <hi>Gard</hi> in his Expreſſions, and a man alſo that died with great <hi>Reſignation</hi> and <hi>Peace,</hi> (as all the <hi>Proteſtants</hi> about him can teſtifie) ſhould be tax'd by theſe men of <hi>Equivocation,</hi> even when he uſes the <hi>Words</hi> of <hi>Oates</hi>'s own <hi>Charge</hi> which his Lordſhip had it ſeems formerly gotten; nay the very <hi>Words</hi> (if I be not much de<g ref="char:EOLhyphen"/>ceiv'd) which the ſaid <hi>Oates Swore</hi> at the Bar of the <hi>Lords Houſe</hi> againſt him.</p>
+            <p>His 4th. <hi>Obſervation</hi> (for the <hi>3d.</hi> will follow next more methodically) is on his <hi>Lordſhips</hi> af<g ref="char:EOLhyphen"/>firmation, <hi>That the murdering of Kings, and the taking up of Arms againſt Them, is, to his know<g ref="char:EOLhyphen"/>ledge, no authoriz'd Principle of the Popiſh Religion.</hi> This makes the <hi>little Gentleman</hi> touchy, and ſay, That the <hi>Averment</hi> is either <hi>deluſive,</hi> or <hi>falſe,</hi> ſince <hi>Papiſts</hi> have Rebell'd even in <hi>England</hi> and <hi>Ireland,</hi> ſeeing their <hi>Councils</hi> have declar'd, and catagori<g ref="char:EOLhyphen"/>cally concluded it in expreſs terms; and laſtly, ſeeing their greateſt <hi>Doctors</hi> have avow'd it alſo.</p>
+            <p>To this I firſt ſay, If owning <hi>Rebellion</hi> lawful by the determination of One or more <hi>ſpiritual True-Proteſtant-Aſſemblies,</hi> (for ſuch a Meeting, I ſup<g ref="char:EOLhyphen"/>poſe, in our <hi>Caſuiſt</hi>'s ſenſe is a <hi>Council</hi>) and if the aſſerting it by the <hi>Doctors</hi> and <hi>Preachers</hi> of the <hi>Communion;</hi> and again, if the practiſing it by the <hi>Flock</hi> in general, makes the Poſition <hi>an authoriz'd Principle of a Religion;</hi> I can tell our ſaid <hi>Caſuiſt,</hi> with a vengeance, <hi>whoſe Religion this Doctrine is an authoriz'd Principle of;</hi> with this <hi>aggravation</hi> too, that 'twas never <hi>explicitly</hi> nor <hi>implicitly</hi> diſ<g ref="char:EOLhyphen"/>own'd by the <hi>Party;</hi> nay, rather than recant, ſeveral of the <hi>Fraternity</hi> have lately dy'd the <hi>De<g ref="char:EOLhyphen"/>vil</hi>'s <hi>Martyrs</hi> for it, we know. But 'tis not my Province to <hi>Accuſe the Brethren,</hi> or <hi>Excuſe Pope<g ref="char:EOLhyphen"/>ry;</hi> but to <hi>Vindicate a Noble Peer,</hi> and a <hi>Loyal Subject,</hi> who died a <hi>Chriſtian,</hi> and hop'd for <hi>Sal<g ref="char:EOLhyphen"/>vation</hi> by the <hi>Merits</hi> of the Bleſſed <hi>Jeſus</hi> only. To the buſineſs then, in God's Name.</p>
+            <p>The whole <hi>Engliſh</hi> World knows, That my Lord <hi>Petre</hi> was accus'd of <hi>intending the King's Depoſiti<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:101828:2"/>and Death;</hi> nor is any body ignorant with what zeal 'twas proclaim'd through the Kingdom, <hi>That the lawfulneſs of it was a Popiſh Principle, even a certain Tenet of that Religion.</hi> Now, ſeeing his Lordſhip thought it (as he ſays in his <hi>Letter</hi>) <hi>a duty he ow'd to Truth and his own Innocence, to clear himſelf of the Treaſon;</hi> was it not abſolutely ne<g ref="char:EOLhyphen"/>ceſſary (if he could truly and <hi>knowingly</hi> do it) to declare <hi>the Doctrine a Calumny, and to his know<g ref="char:EOLhyphen"/>ledge to be no Principle of his Church?</hi> I ſay, was it not neceſſary for him to do thus? eſpecially when 'twas evident that our very believing this a part of his Religion, infinitely ſtrengthned the Evi<g ref="char:EOLhyphen"/>dence and Charge againſt him?</p>
+            <p>This being his Caſe, and theſe his Motives, might he not then <hi>knowingly</hi> deny the Principle, <hi>when ſeveral learned men had told him 'twas an aſper<g ref="char:EOLhyphen"/>ſion; when many zealous</hi> Engliſh Papiſts <hi>had, he knew, written againſt it; when he heard that Books that maintain'd it had been cenſur'd and burnt in</hi> Popiſh Countreys; and eſpecially, <hi>when he ſaw</hi> (even whilſt he lay in Priſon in a manner for the King) <hi>that the</hi> Pope<hi>'s eldeſt Son, even the</hi> Popiſh King <hi>of</hi> France, with all that Clergy, tell his Ho<g ref="char:EOLhyphen"/>lineſs to his face, <hi>That they deteſted this Doctrine; for Princes held their Crowns from God alone; ſo that no Power under Heaven, could Depoſe them, much more Murther them;</hi> Nay, his Lordſhip alſo knew, that the <hi>good old Man,</hi> inſtead of <hi>damning</hi> his Child for the Fact, did (even ſince this <hi>Decla<g ref="char:EOLhyphen"/>ration</hi>) ſend him his <hi>Bleſſing;</hi> which no body (I think) believes he would have done, had His Majeſty deny'd <hi>Tranſubſtantiation, Purgatory,</hi> or any real Tenet of the <hi>Popiſh Religion.</hi>
+            </p>
+            <p>By this then we ſee, that the Council of <hi>Lateran</hi> (which impos'd even <hi>Tranſubſtantiation</hi> on all <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi>) is far from obliging them to the <hi>depoſing Doctrine;</hi> and this Dr. <hi>Heylin</hi> (that great Cham<g ref="char:EOLhyphen"/>pion againſt <hi>Popery</hi>) in his <hi>Certamen Epiſtolare,</hi> plainly ſhews; and truly I ſhall much ſooner fol<g ref="char:EOLhyphen"/>low the Opinion of that eminent <hi>Divine,</hi> than Mr. <hi>Obſerver</hi>'s. But ſtill I ſay, that <hi>Popery</hi> is <hi>Po<g ref="char:EOLhyphen"/>pery;</hi> and tho' <hi>Papiſts</hi> may be <hi>Loyal,</hi> many things in their <hi>Religion</hi> may be yet <hi>Erroneous;</hi> nor will I be the ſooner a <hi>Jew,</hi> becauſe he is thus far in the right, as to believe <hi>Moſes</hi> and the <hi>Prophets.</hi>
+            </p>
+            <p>So much then for this point; and now let's fall to the <hi>3d Obſervation,</hi> which is extremely remar<g ref="char:EOLhyphen"/>kable and pleaſant; it being on that part of the <hi>Letter</hi> which puts Mr. <hi>Obſerver</hi> into an <hi>Extaſie,</hi> and far above the <hi>Altitudes</hi> of <hi>Dol Common.</hi>
+            </p>
+            <p>His Lordſhips words are theſe, <hi>That of the folly as well as falſhood of</hi> Oates's Information, <hi>the ſober part of Mankind are</hi> (as he conceives) <hi>e'r this ſuffi<g ref="char:EOLhyphen"/>ciently convinc'd.</hi> To which the <hi>Gentleman</hi> ſays, <q>That the Paragraph ſmells rank of the Prieſts Contrivance; That it arraigns the Juſtice of the Nation; That it affronts His Sacred Majeſty, the Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament, the Judges, <hi>&amp;c.</hi> calling them in effect Fools and Mad-men; <hi>That ſober men are ſo far from being</hi> convinc'd, <hi>as the</hi> Letter <hi>means, that on the contrary,</hi> Oates <hi>ſtands</hi> (in ſpight of all the little <hi>Romiſh</hi> Arts) <hi>unſhaken, and <hi>as firm as the Pillars of the Earth;</hi>
+                  </hi> but the Popiſh Subor<g ref="char:EOLhyphen"/>nations and Tricks have been abundantly de<g ref="char:EOLhyphen"/>rected by Providence, to their confuſion, as ap<g ref="char:EOLhyphen"/>pears in the Caſe of <hi>Knox</hi> and <hi>Lane.</hi>
+               </q> Then to conclude, he ſays, <q>
+                  <hi>That He who with deep aſſeve<g ref="char:EOLhyphen"/>rations avouches one <g ref="char:V">Ʋ</g>ntruth, cannot expect to be believ'd in another Affirmation; by any but Bank<g ref="char:EOLhyphen"/>rupts in Reaſon, and Prodigals in their</hi> Faith.</q>
+            </p>
+            <p>What a Rhapſody, and heap of unſorted, and (which is more) contradictory things, has the <hi>Gentleman</hi> rak'd up here altogether, to his own confuſion and ſhame, (if a <hi>Whig</hi> had the grace to have any!) For, what an encouragement does he give to <hi>Perjury,</hi> and any profligate wretch, <hi>if a Witneſs, muſt never be queſtion'd after Judgement?</hi> Magiſtrates and Governours are not <hi>Gods,</hi> tho' they are call'd ſo; They muſt <hi>commit</hi> upon <hi>ſuſpi<g ref="char:EOLhyphen"/>cion,</hi> and believe an <hi>Oath,</hi> when they have no rea<g ref="char:EOLhyphen"/>ſon to doubt it, and therefore 'tis Juſtice in <hi>Judges</hi> to condemn (even an <hi>Innocent,</hi>) if really, and in their conſcience, they think him <hi>guilty.</hi> Our very <hi>Law-books</hi> ſhew us many ſad <hi>Precedents</hi> of this Nature, <hi>without diſhonouring thereby the Government;</hi> and the <hi>Papiſts</hi> themſelves, (tho' ſufferers) have had th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ingenuity to own this <hi>Truth,</hi> as we ſee in the Lord <hi>Caſtlemain</hi>'s <hi>Manifeſto:</hi> yet, had they been ſilent or dogged, Mr. <hi>Settle</hi> in his <hi>Narrative,</hi> and the <hi>Obſervator</hi> alſo in his Loyal Treatiſes, have fully prov'd the point, and anſwer'd all the <hi>Pha<g ref="char:EOLhyphen"/>natical Objections and Pretences.</hi> But who could have imagin'd (had we not had a long and re<g ref="char:EOLhyphen"/>peated experience of it) that <hi>Claudius ſhould rail at Debauchery,</hi> or that <hi>True-Proteſtants</hi> ſhould be ſo tender of the <hi>Honour of the Government,</hi> who <hi>blaſ<g ref="char:EOLhyphen"/>phem'd</hi> againſt all that is Sacred, <hi>if their own Copy<g ref="char:EOLhyphen"/>holds come once to be touch'd?</hi>
+            </p>
+            <p>To paſs by then the <hi>ſcandal</hi> they have caſt upon <hi>Juries,</hi> by their <hi>Ignoramus's</hi> and other <hi>Notorious Verdicts;</hi> Have they not defam'd all our <hi>Courts,</hi> by publickly decrying and diſowning the <hi>Now PLOT;</hi> tho' Perſons of <hi>Rank</hi> and <hi>Quality</hi> have been the <hi>Witneſſes;</hi> tho' the <hi>Condemned themſelves have confeſt the Conspiracy;</hi> and tho' no one of them have had the impudence <hi>to deny it at their Execu<g ref="char:EOLhyphen"/>tion,</hi> which even in conſcience he ought to have done, <hi>had he been Innocent?</hi> Nor can any thing more unanſwerably prove the <hi>Truth, Tenderneſs,</hi> and <hi>exact Probity</hi> of the ſaid <hi>Witneſſes,</hi> than that ſo many <hi>Noted True Proteſtants</hi> (who have been late<g ref="char:EOLhyphen"/>ly <hi>Impriſon'd</hi>) are now <hi>at Liberty for want of Evi<g ref="char:EOLhyphen"/>dence;</hi> a thing never heard of in the <hi>Salamanca Intrigue.</hi> Is not then Mr. <hi>Obſerver</hi>'s complaint a<g ref="char:EOLhyphen"/>gainſt <hi>Defamation</hi> from the bottom of his heart, when all his party have ſtill aſpers'd the <hi>King,</hi> and all his beſt and trueſt <hi>Miniſters?</hi>
+            </p>
+            <pb n="4" facs="tcp:101828:3" rendition="simple:additions"/>
+            <p>But who could have thought this <hi>Fellow</hi> ſo <hi>foo<g ref="char:EOLhyphen"/>liſh</hi> (unleſs <hi>Impudence</hi> and <hi>Folly</hi> were ſynonimous) as to ſay, <hi>that no ſober man queſtions</hi> Oates<hi>'s Evi<g ref="char:EOLhyphen"/>dence, <hi>but that it ſtands as firm as the ve<g ref="char:EOLhyphen"/>ry Pillars of the Earth.</hi>
+               </hi> Lord! what ſport might a man make with this <hi>high-flown</hi> and <hi>well-adapted</hi> Rhetorick, were not the <hi>Orator</hi> too con<g ref="char:EOLhyphen"/>temptible to be laugh'd at!</p>
+            <p>But pray Mr. <hi>Obſerver,</hi> ſince the <hi>Dr.</hi> is now ſo well and fully known, give me leave to ask ye,</p>
+            <p n="1">
+               <hi>1ſt.</hi> Whether <hi>ſober men do not queſtion,</hi> but <hi>Cole<g ref="char:EOLhyphen"/>man</hi> might have been known <hi>by Candle-light,</hi> (not<g ref="char:EOLhyphen"/>withſtanding the <hi>Doctor</hi>'s <hi>ill eyes</hi>) ſince his <hi>Reve<g ref="char:EOLhyphen"/>rence</hi> had ſuch a <hi>world of intimacy</hi> with him, as he (the ſaid <hi>Doctor</hi>) afterwards alledg'd at his <hi>Tryal;</hi> and eſpecially, ſince <hi>Coleman <hi>ſpoke firſt,</hi>
+               </hi> as Sir <hi>Thomas Doleman</hi> atteſted?</p>
+            <p n="2">
+               <hi>2ly.</hi> Whether <hi>ſober men queſtion not Ireland's</hi> being in <hi>London</hi> about the <hi>middle of Auguſt,</hi> and <hi>2d.</hi> of <hi>September,</hi> when his <hi>Journal</hi> (made out by a Crowd of <hi>Eminent Witneſſes,</hi> as well <hi>Prote<g ref="char:EOLhyphen"/>ſtants as Papists</hi>) ſhews, <hi>That he left the Town on the</hi> 3d. <hi>of</hi> Auguſt, <hi>and return'd not till the</hi> 14th. <hi>of</hi> September?</p>
+            <p n="3">
+               <hi>3ly.</hi> Whether <hi>ſober men do not queſtion,</hi> if poor creeping <hi>Pickering</hi> (who would have ſtarted at a <hi>Titmouſe</hi>) were appointed <hi>to ſhoot the King with chew'd ſilver Bullets;</hi> Or whether <hi>Groves</hi> ever ſhew'd the <hi>Doctor</hi> his <hi>Collectors Book of Peter-pence;</hi> a thing that would not have rais'd 500 <hi>
+                  <abbr>l.</abbr> had all the Papiſts in</hi> England <hi>paid their</hi> Quota?</p>
+            <p n="4">
+               <hi>4ly</hi> Whether <hi>ſober men do not queſtion</hi> Sir <hi>Ed<g ref="char:EOLhyphen"/>mundbury Godfrey</hi>'s going in his <hi>dejection,</hi> to the <hi>Doctor</hi> for <hi>Spiritual Comfort?</hi>
+            </p>
+            <p n="5">
+               <hi>5ly.</hi> Whether <hi>ſober men do not queſtion</hi> old <hi>White<g ref="char:EOLhyphen"/>bread</hi>'s beating and cuffing the <hi>Doctor, when he fear'd that he</hi> (the ſaid <hi>Doctor</hi>) <hi>would betray the Plot?</hi>
+            </p>
+            <p n="6">
+               <hi>6ly.</hi> Whether <hi>ſober men do not queſtion the</hi> White<g ref="char:EOLhyphen"/>horſe-Conſult, ſince the <hi>Doctor</hi> could not tell Mr. <hi>Langhorn,</hi> whether he (the <hi>Dr.</hi>) came from <hi>Dover</hi> on <hi>horſeback</hi> or by <hi>Coach;</hi> ſince the <hi>Mistreſs</hi> of the ſaid Houſe (a <hi>Protestant</hi>) diſown'd any ſuch <hi>Aſſem<g ref="char:EOLhyphen"/>bly,</hi> ſince Mrs. <hi>Groves,</hi> and her Siſter, and a <hi>Prote<g ref="char:EOLhyphen"/>ſtant</hi> Maid, <hi>declar'd, that the</hi> Doctor <hi>was no Longer of theirs in</hi> April 78. and ſince Sir <hi>Thomas Preston,</hi> Sir <hi>John Warner,</hi> and Mr. <hi>Hildeſley,</hi> were proved not to accompany the <hi>Dr.</hi> (as he ſaid,) in his Journey?</p>
+            <p n="7">7ly. Whether <hi>Sober men do not queſtion</hi> Sir <hi>George Wakeman</hi>'s giving <hi>(in terminis)</hi> an <hi>Acquittance</hi> for 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> (in part of 15000 <abbr>
+                  <hi>l.</hi>
+               </abbr>) <hi>to Kill the King.</hi> And whether <hi>they queſtion not</hi> the <hi>Doctors</hi> know<g ref="char:EOLhyphen"/>ing of all that <hi>Treaſon</hi> which he Accus'd Sir <hi>George</hi> of at his <hi>Tryal,</hi> when Sir <hi>Philip Lloyd</hi> wit<g ref="char:EOLhyphen"/>neſs'd, <hi>That the ſaid</hi> Doctor <hi>ſolemnly proteſted to the King and Council, that he had no Treaſon to Charge him with.</hi>
+            </p>
+            <p n="8">8ly. Whether <hi>Sober men queſtion</hi> not the <hi>Doctors</hi> Averment at my <hi>Lord Caſtlemain</hi>'s Tryal, <hi>That he remembred not to have ſaid he ſaw his Lordſhips Di<g ref="char:EOLhyphen"/>vorce, ſince four times</hi> before he openly <hi>declar'd</hi> (twice of which was upon <hi>Oath</hi>) <hi>That he had ſeen it in Mr.</hi> Strange's <hi>Hand.</hi> And again, whether <hi>they queſtion</hi> not the <hi>Spaniſh Fathers</hi> ſending the <hi>Doctor</hi> (in the time of his very <hi>Embaſſy</hi> and <hi>Ne<g ref="char:EOLhyphen"/>gotiation</hi>) <hi>to ſhow the Boyes the way to School;</hi> as it appears (by his Lordſhips <hi>Manifeſto</hi> and <hi>Tryal</hi>) he had <hi>Sworn.</hi>
+            </p>
+            <p n="9">9ly. Whether <hi>Sober men question not</hi> if the <hi>Lords</hi> (without <hi>Turbervil</hi>'s help) would in Lord <hi>Stafford</hi>'s <hi>Tryal</hi> have given Credit to the <hi>Doctor,</hi> having re<g ref="char:EOLhyphen"/>jected his <hi>Testimony</hi> againſt the <hi>Queen; For accu<g ref="char:EOLhyphen"/>ſing her after he had Sworn, that he had no more to ſay againſt any body in or out of the Houſe.</hi>
+            </p>
+            <p n="10">10ly. Whether <hi>Sober men do not question</hi> the <hi>Doctor</hi>'s whole Evidence in <hi>Colledg</hi>'s <hi>Tryal,</hi> except it be, <hi>That he and</hi> Savage, (<hi>as he Swears,) diſputed about the Existence of a God, and the Immortality of the Soul.</hi>
+            </p>
+            <p n="11">11ly. Whether <hi>Sober men do not queſtion whether the</hi> Doctor <hi>be a</hi> Doctor <hi>or no.</hi>
+            </p>
+            <p>To conclude with <hi>twelve Good men and True,</hi> or a full <hi>Jury</hi> of Queſtions; (for the <hi>Venire</hi> it ſelf is Infinite;) I ſay <hi>12ly.</hi> Whether <hi>any Sober or Drunken men,</hi> do think <hi>that my Lord</hi> Petre <hi>had ever a Commiſſion or Patent to be Lieutenant Ge<g ref="char:EOLhyphen"/>neral of an Army,</hi> and therefore Mr. <hi>Obſerver</hi> be pleas'd to remember your late <hi>Aphoriſm;</hi> to wit, <hi>That he that will avouch with the higheſt Aſſevera<g ref="char:EOLhyphen"/>tion one Notorious <g ref="char:V">Ʋ</g>ntruth, cannot be expected to be believ'd in his other Affirmations, by any but a Bankrupt in his Reaſon, and a Prodigal in his Faith.</hi>
+            </p>
+            <p>Let me <hi>Sir</hi> then end with this <hi>Advertiſement,</hi> that you may <hi>write</hi> againſt <hi>Romiſh Fopperies</hi> as long as you pleaſe, if that be the real <hi>drift</hi> of your <hi>Zeal;</hi> for no good <hi>Protestant</hi> will ever vindicate <hi>Popery,</hi> tho' he may an Innocent and Loyal <hi>Papiſt;</hi> eſpecially when your Deſign, and that of your <hi>Party, is to Blacken the King, to Subvert the Go<g ref="char:EOLhyphen"/>vernment both in Church and State, and to deſtroy all His Majesties True and Faithful</hi> Proteſtant <hi>Sub<g ref="char:EOLhyphen"/>jects.</hi>
+            </p>
+            <p>I muſt here tell the <hi>Reader,</hi> (tho' late) that ha<g ref="char:EOLhyphen"/>ving forgotten the buſineſs of <hi>Knox</hi> and <hi>Lane,</hi> he is to remember, that their <hi>Accuſer</hi> as to any Popiſh practice, was <hi>Dangerfield,</hi> the moſt Infamous Re<g ref="char:EOLhyphen"/>corded Villain upon Earth; And therefore let him judge now of the <hi>Evidence.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Thomas Price, Anno Dom.</hi> MDCLXXXIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
